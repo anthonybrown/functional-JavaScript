@@ -8,5 +8,5 @@
   - Use of a subset of JavaScript
   - Performance
     - Memoization
-    - Tail call optiimization
+    - Tail call optimization
     - Lazy evaluation
